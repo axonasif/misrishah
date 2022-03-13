@@ -10,6 +10,7 @@
         "laravel/framework": "^9.2",
         "laravel/passport": "^10.3",
         "laravel/sanctum": "^2.14.1",
+        "laravel/telescope": "^4.7",
         "laravel/tinker": "^2.7"
     },
     "require-dev": {
